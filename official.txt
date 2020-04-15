@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns="http://www.imr.no/formats/nmdreference/v2.0">
+	<row xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OfficialPathElementType" deprecated="false" updatedTime="2018-06-08T07:41:41.239Z" updatedBy="import" insertedTime="2018-06-08T07:41:41.239Z" insertedBy="import">
+		<cruiseseries>Norwegian Sea NOR Norwegian spring-spawning herring spawning cruise in Feb_Mar</cruiseseries>
+		<year>2020</year>
+		<cruise>2020819</cruise>
+		<raw_version>RAWDATA_V0</raw_version>
+		<work_version>WORK_V0</work_version>
+		<lsss_file_version>LSSS_V0</lsss_file_version>
+		<lsss_version>2.8.0-alpha</lsss_version>
+		<official>True</official>
+	</row>
+	<row xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OfficialPathElementType" deprecated="false" updatedTime="2018-06-08T07:41:41.239Z" updatedBy="import" insertedTime="2018-06-08T07:41:41.239Z" insertedBy="import">
+		<cruiseseries>Norwegian Sea NOR Norwegian spring-spawning herring spawning cruise in Feb_Mar</cruiseseries>
+		<year>2020</year>
+		<cruise>2020818</cruise>
+		<raw_version>RAWDATA_V0</raw_version>
+		<work_version>WORK_V0</work_version>
+		<lsss_file_version>LSSS_V0</lsss_file_version>
+		<lsss_version>2.8.0-alpha</lsss_version>
+		<official>True</official>
+	</row>
+	<row xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OfficialPathElementType" deprecated="false" updatedTime="2018-06-08T07:41:41.239Z" updatedBy="import" insertedTime="2018-06-08T07:41:41.239Z" insertedBy="import">
+		<cruiseseries>Norwegian Sea NOR Norwegian spring-spawning herring spawning cruise in Feb_Mar</cruiseseries>
+		<year>2020</year>
+		<cruise>2020817</cruise>
+		<raw_version>RAWDATA_V1</raw_version>
+		<work_version>WORK_V0</work_version>
+		<lsss_file_version>LSSS_V0</lsss_file_version>
+		<lsss_version>2.8.0-alpha</lsss_version>
+		<official>True</official>
+	</row>
+</list>
